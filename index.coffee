@@ -51,7 +51,7 @@ duration = do ->
   ->
     Date.now() - _start
 
-module.exports = (name) ->
+global.debug = (name) ->
   match = (re) -> re.test name
   return noop if excludes.some(match) or !includes.some(match)
 
