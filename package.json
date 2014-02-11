@@ -10,8 +10,6 @@
     "author": "",
     "private": true,
     "dependencies": {
-    },
-    "DEBUG local dependencies": {
       "console-fork": "0.x"
     }
 }
