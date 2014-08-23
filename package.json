@@ -1,6 +1,6 @@
 {
     "name": "debug-folly",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "ERROR: No README.md file found!",
     "main": "index.coffee",
     "scripts": {
@@ -8,8 +8,6 @@
     },
     "repository": "",
     "author": "",
-    "private": true,
     "dependencies": {
-      "console-fork": "0.x"
     }
 }
